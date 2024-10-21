@@ -1,0 +1,2 @@
+# MyNewLib
+ Hi there!
